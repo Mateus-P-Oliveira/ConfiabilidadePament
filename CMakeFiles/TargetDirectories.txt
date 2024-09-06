@@ -1,0 +1,7 @@
+/workspace/ConfiabilidadePament/CMakeFiles/unity.dir
+/workspace/ConfiabilidadePament/CMakeFiles/edit_cache.dir
+/workspace/ConfiabilidadePament/CMakeFiles/rebuild_cache.dir
+/workspace/ConfiabilidadePament/CMakeFiles/list_install_components.dir
+/workspace/ConfiabilidadePament/CMakeFiles/install.dir
+/workspace/ConfiabilidadePament/CMakeFiles/install/local.dir
+/workspace/ConfiabilidadePament/CMakeFiles/install/strip.dir
