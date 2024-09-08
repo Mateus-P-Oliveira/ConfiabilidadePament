@@ -225,10 +225,9 @@ TEST(Payment, Testpayment35) {
 
 TEST(Payment, Testpayment36)
 {
-  // All of these should pass
+  //Teste que deve sempre passar
   float pagamento = 730.11;
-  char tipo[15];
-  sprintf(tipo, "VIP");
+  char tipo[15] = "VIP"; 
   TEST_ASSERT_EQUAL(0, payment(pagamento,tipo));
-  //TEST_ASSERT_EQUAL(-1, payment(2,2));
+  
 }
